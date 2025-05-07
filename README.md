@@ -45,6 +45,7 @@ The project involves:
 
 ### 🛠️ Technologies Used
 -------------------------
+
 * **Python:** Data manipulation and analysis
 * **Pandas:** Data loading and preprocessing
 * **NumPy:** Numerical operations
@@ -53,12 +54,14 @@ The project involves:
 
 ### 📈 Results
 ---------------
+
 * Identified correlations between driving experience and credit score.
 * Visualized the distribution of annual mileage and its relationship with insurance claims.
 * Analyzed the effect of vehicle type and past accidents on the likelihood of a claim.
 
 ### ✨ Future Work
 -------------------
+
 * Implement predictive models to assess the probability of insurance claims.
 * Integrate advanced techniques like clustering to segment customers based on risk profiles.
 
