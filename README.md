@@ -47,23 +47,6 @@ The project involves:
 
 ### 📝 Usage
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/car_insurance_analysis.git
-   ```
-2. Install the required libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the analysis script:
-
-   ```bash
-   python car_insurance_analysis.py
-   ```
-4. View the visualizations and summary reports.
-
 ### 🧩 Project Structure
 
 ```
